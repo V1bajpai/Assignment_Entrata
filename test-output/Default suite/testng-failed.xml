@@ -6,12 +6,8 @@
       <class name="org.entrata.assignment.TestEntrata">
         <methods>
           <include name="setUp"/>
-          <include name="testNavigateToLogin"/>
-          <include name="testSignUpButtonPresence"/>
           <include name="tearDown"/>
-          <include name="testSearchFunctionality"/>
-          <include name="testContactUsFormVisible"/>
-          <include name="testDynamicContent"/>
+          <include name="test5_testAddToCartFunctionality"/>
         </methods>
       </class> <!-- org.entrata.assignment.TestEntrata -->
     </classes>
